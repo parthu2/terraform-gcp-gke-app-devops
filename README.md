@@ -1,2 +1,2 @@
-# terraform-gcp-gke-app-devops
-Implement Continuous Integration for a simple application
+# gcp-gke-terraform-app
+gcp-gke-terraform-app
